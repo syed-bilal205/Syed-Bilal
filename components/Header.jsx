@@ -9,7 +9,7 @@ const Header = () => {
     <>
       <div className={styles.header}>
       <div>
-        <h6 className='text-white font-bold tracking-widest'>HELLO I'M</h6>
+        <h6 className='text-white font-bold tracking-widest'>HELLO I M</h6>
         </div>
         <div className='text-[#20c863] font-extrabold text-5xl md:text-9xl text-center'>
         <Typewritter 
