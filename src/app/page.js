@@ -12,7 +12,7 @@ import Github from '../../components/Github'
 import Footer from '../../components/Footer'
 
 const page = () => {
-
+  
   const { scrollYProgress } = useScroll();
 
   return (
