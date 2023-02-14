@@ -1,10 +1,10 @@
 import React from 'react'
 import Image from 'next/image'
-import Phone from '../public/images/phone.png'
-import mobile from '../public/images/mobileWeb.png'
-import styles from '../src/app/page.module.css'
-import laptopWeb from '../public/images/laptopWeb.png'
-import laptop from '../public/images/laptop.png'
+import Phone from '../../public/images/phone.png'
+import mobile from '../../public/images/mobileWeb.png'
+import styles from './page.module.css'
+import laptopWeb from '../../public/images/laptopWeb.png'
+import laptop from '../../public/images/laptop.png'
 import Link from 'next/link'
 
 const Projects = () => {

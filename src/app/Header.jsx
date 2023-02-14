@@ -1,7 +1,7 @@
 'use client';
 import React,{useEffect} from 'react'
 import Typewritter from 'typewriter-effect'
-import styles from '../src/app/page.module.css'
+import styles from './page.module.css'
 import Download from './Download';
 
 const Header = () => {

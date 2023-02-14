@@ -2,14 +2,14 @@
 import React from 'react'
 import {Lines} from 'react-preloaders'
 import {motion,useScroll} from 'framer-motion'
-import Navbar from '../../components/Navbar'
-import Header from '../../components/Header'
-import About from '../../components/About'
-import Skills from '../../components/Skills'
-import Projects from '../../components/Projects'
-import Contact from '../../components/Contact'
-import Github from '../../components/Github'
-import Footer from '../../components/Footer'
+import Navbar from './Navbar'
+import Header from './Header'
+import About from './About'
+import Skills from './Skills'
+import Projects from './Projects'
+import Contact from './Contact'
+import Github from './Github'
+import Footer from './Footer'
 
 const page = () => {
   

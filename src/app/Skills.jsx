@@ -1,13 +1,13 @@
 import React from 'react'
 import Image from 'next/image'
-import html from '../public/images/HTML.png' 
-import css from '../public/images/CSS.png' 
-import javascript from '../public/images/JAVASCRIPT.png' 
-import bootstrap from '../public/images/BOOTSTRAP.png' 
-import next from '../public/images/next-js.svg' 
-import react from '../public/images/REACT.png' 
-import scss from '../public/images/SCSS.png' 
-import tailwind from '../public/images/TAILWIND.png' 
+import html from '../../public/images/HTML.png' 
+import css from '../../public/images/CSS.png' 
+import javascript from '../../public/images/JAVASCRIPT.png' 
+import bootstrap from '../../public/images/BOOTSTRAP.png' 
+import next from '../../public/images/next-js.svg' 
+import react from '../../public/images/REACT.png' 
+import scss from '../../public/images/SCSS.png' 
+import tailwind from '../../public/images/TAILWIND.png' 
 
 const Skills = () => {
   return (

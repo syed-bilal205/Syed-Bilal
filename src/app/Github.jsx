@@ -1,5 +1,5 @@
 import React from 'react'
-import gitImg from '../public/images/syed-bilal205.png'
+import gitImg from '../../public/images/syed-bilal205.png'
 import Image from 'next/image'
 import Link from 'next/link'
 
