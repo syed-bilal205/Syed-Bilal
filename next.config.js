@@ -8,7 +8,6 @@ const nextConfig = {
   experimental: {
     appDir: true,
   },
-  disableExperimentalFeaturesWarning: true
 }
 
 module.exports = nextConfig
